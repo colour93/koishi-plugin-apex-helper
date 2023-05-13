@@ -1,0 +1,32 @@
+{
+    "event": {
+        "Control": "控制",
+        "TDM": "团队死斗",
+        "Gun Run": "子弹时间"
+    },
+    "map": {
+        "olympus_rotation": "奥林匹斯",
+        "worlds_edge_rotation": "世界尽头",
+        "broken_moon_rotation": "残月",
+        "storm_point_rotation": "风暴点",
+        "kings_canyon_rotation": "诸王峡谷"
+    },
+    "crafting": {
+        "item": {
+            "laser_sight": "激光",
+            "optic_digital_threat": "烟镜",
+            "knockdown_shield": "盾",
+            "mobile_respawn_beacon": "信标"
+
+        },
+        "rarity": {
+            "Rare": "蓝",
+            "Epic": "紫",
+            "Legendary": "金"
+        },
+        "weapon": {
+            "longbow": "长弓",
+            "volt": "电冲"
+        }
+    }
+}

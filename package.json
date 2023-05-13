@@ -1,7 +1,10 @@
 {
   "name": "koishi-plugin-apex-helper",
-  "description": "Apex Legends 信息助手",
-  "version": "0.0.1",
+  "description": "Koishi 插件: Apex Legends 信息助手",
+  "contributors": [
+    "colour93 <colour_93@furry.top>"
+  ],
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -17,5 +20,21 @@
   ],
   "peerDependencies": {
     "koishi": "^4.12.8"
+  },
+  "homepage": "https://github.com/colour93/koishi-plugin-apex-helper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colour93/koishi-plugin-apex-helper.git"
+  },
+  "koishi": {
+    "description": {
+      "zh": "Apex Legends 信息助手"
+    },
+    "service": {
+      "required": [],
+      "optional": [],
+      "implements": ["dialogue"]
+    },
+    "locales": ["zh"]
   }
 }
