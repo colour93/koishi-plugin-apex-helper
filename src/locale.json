@@ -16,7 +16,9 @@
             "laser_sight": "激光",
             "optic_digital_threat": "烟镜",
             "knockdown_shield": "盾",
-            "mobile_respawn_beacon": "信标"
+            "mobile_respawn_beacon": "信标",
+            "extended_light_mag": "轻扩",
+            "standard_stock": "枪托"
 
         },
         "rarity": {
