@@ -14,6 +14,8 @@
     "crafting": {
         "item": {
             "mobile_respawn_beacon": "信标",
+            "backpack": "背包",
+            "helmet": "头盔",
             "turbocharger": "涡轮",
             "hammerpoint_rounds": "锤击点",
             "skullpiercer_rifling": "穿颅器",
