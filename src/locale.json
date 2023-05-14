@@ -13,13 +13,26 @@
     },
     "crafting": {
         "item": {
+            "mobile_respawn_beacon": "信标",
+            "turbocharger": "涡轮",
+            "hammerpoint_rounds": "锤击点",
+            "skullpiercer_rifling": "穿颅器",
+            "double_tap_trigger": "双发",
             "laser_sight": "激光",
             "optic_digital_threat": "烟镜",
+            "optic_hcog_bruiser": "2x镜",
+            "optic_hcog_ranger": "3x镜",
+            "optic_sniper": "6x镜",
+            "optic_variable_sniper": "4x-8x镜",
             "knockdown_shield": "盾",
-            "mobile_respawn_beacon": "信标",
             "extended_light_mag": "轻扩",
-            "standard_stock": "枪托"
-
+            "extended_heavy_mag": "重扩",
+            "extended_energy_mag": "能量",
+            "extended_sniper_mag": "狙扩",
+            "shotgun_bolt": "枪栓",
+            "standard_stock": "枪托",
+            "sniper_stock": "狙枪托",
+            "barrel_stabilizer": "枪管"
         },
         "rarity": {
             "Rare": "蓝",
