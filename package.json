@@ -1,9 +1,7 @@
 {
   "name": "koishi-plugin-apex-helper",
   "description": "Koishi 插件: Apex Legends 信息助手",
-  "contributors": [
-    "colour93 <colour_93@furry.top>"
-  ],
+  "author": "colour93 <colour_93@furry.top>",
   "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -14,6 +12,8 @@
   "license": "MIT",
   "scripts": {},
   "keywords": [
+    "apex",
+    "apexlegends",
     "chatbot",
     "koishi",
     "plugin"
@@ -30,10 +30,11 @@
     "description": {
       "zh": "Apex Legends 信息助手"
     },
+    "category": "gametool",
     "service": {
       "required": [],
       "optional": [],
-      "implements": ["dialogue"]
+      "implements": []
     },
     "locales": ["zh"]
   }
