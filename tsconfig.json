@@ -13,8 +13,11 @@
     "moduleResolution": "node",
     "jsx": "react-jsx",
     "jsxImportSource": "@satorijs/element",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
   },
   "include": [
-    "src",
+    "src/*.js",
+    "src/*.json"
   ],
 }
