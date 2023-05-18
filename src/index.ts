@@ -1,8 +1,8 @@
 import { Context, Logger, Schema } from 'koishi'
 
-import { CraftingData, MapData } from './model'
+import { CraftingData, MapData } from './type'
 
-export const name = '@colour93/apex-helper'
+export const name = 'apex-helper'
 
 export interface Config {
 	apikey: string
